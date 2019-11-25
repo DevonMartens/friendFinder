@@ -5,20 +5,21 @@ var path = require('path');
 
 // Express appl config
 var app = express();
-var PORT = process.env.PORT;
+var PORT = process.env.PORT || 8080;
 
-// Expose the public directory to access CSS files
-app.use(express.static(path.join(__dirname, './app/public')));
+
+// The code below is pretty standard.
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
+
 
 // connect operating system to app running it 
 // json url and text- app.use registers middleware
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.text());
 
 // Add the application routes
-require(path.join(__dirname, './app/routing/apiRoutes'))(app);
-require(path.join(__dirname, './app/routing/htmlRoutes'))(app);
+require( './routing/apiRoutes.js')(app);
+require('./routing/htmlRoutes.js')(app);
 
 // Start listening on PORT
 app.listen(PORT, function() {
