@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Shaggy Rogers',
-		photo: './public/images/ShaggyRoggers.jpg',
+		photo: '/public/images/ShaggyRoggers.jpg',
 		scores: [
 			'2',
 			'5',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Fred Jones',
-		photo: './public/images/FredJones.jpg',
+		photo: '/public/images/FredJones.jpg',
 		scores: [
 			'25',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Daphne Blake',
-		photo: './public/images/FredJones.jpg',
+		photo: '/public/images/FredJones.jpg',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Velma Dinkley',
-		photo: './public/images/VelmaDinkley.jpg',
+		photo: '/public/images/VelmaDinkley.jpg',
 		scores: [
 			'5',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scrappy-Doo',
-		photo: './public/images/ScrappyDoo.jpg ',
+		photo: '/public/images/ScrappyDoo.jpg ',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby-Dum',
-		photo: './public/images/ScoobyDum.png',
+		photo: '/public/images/ScoobyDum.png',
 		scores: [
 			'5',
 			'4',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Yabba-Doo',
-		photo: './public/images/YabbaDoo.jpg',
+		photo: '/public/images/YabbaDoo.jpg',
 		scores: [
 			'3',
 			'2',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Vincent Van Ghoul',
-		photo: './public/images/VincentVanGhoul.jpg',
+		photo: '/public/images/VincentVanGhoul.jpg',
 		scores: [
 			'1',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby Dee',
-		photo: './public/images/ScoobyDee.jpg',
+		photo: '/public/images/ScoobyDee.jpg',
 		scores: [
 			'1',
 			'1',
