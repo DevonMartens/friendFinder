@@ -2,9 +2,9 @@
 var friendsArray = [
 	{
 		name: 'Shaggy Rogers',
-		photo: 'https://imgur.com/gallery/4pMwZsX',
+		photo: './public/images/ShaggyRoggers.jpg',
 		scores: [
-			'1',
+			'2',
 			'5',
 			'5',
 			'1',
@@ -18,9 +18,9 @@ var friendsArray = [
 	},
 	{
 		name: 'Fred Jones',
-		photo: 'https://scoobydoo.fandom.com/wiki/Scoobypedia?file=Fred+Jones.png',
+		photo: './public/images/FredJones.jpg',
 		scores: [
-			'2',
+			'25',
 			'4',
 			'1',
 			'1',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Daphne Blake',
-		photo: 'https://scoobydoo.fandom.com/wiki/Scoobypedia?file=Daphne+Blake.png',
+		photo: './public/images/FredJones.jpg',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Velma Dinkley',
-		photo: 'https://scoobydoo.fandom.com/wiki/Velma_Dinkley?file=Velma_Dinkley.png',
+		photo: './public/images/VelmaDinkley.jpg',
 		scores: [
 			'5',
 			'1',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby-Doo',
-		photo: 'https://scoobydoo.fandom.com/wiki/Scoobypedia?file=Scooby-Doo.png',
+		photo: './public/images/ScoobyDoo.png',
 		scores: [
 			'1',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scrappy-Doo',
-		photo: 'https://scoobydoo.fandom.com/wiki/Scrappy-Doo?file=Scrappy-Doo.png',
+		photo: './public/images/ScrappyDoo.jpg ',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby-Dum',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		photo: './public/images/ScoobyDum.png',
 		scores: [
 			'5',
 			'4',
@@ -114,9 +114,9 @@ var friendsArray = [
 	},
 	{
 		name: 'Yabba-Doo',
-		photo: 'https://scoobydoo.fandom.com/wiki/Yabba-Doo?file=Yabba-Doo.png',
+		photo: './public/images/YabbaDoo.jpg',
 		scores: [
-			'5',
+			'3',
 			'2',
 			'3',
 			'1',
@@ -129,10 +129,10 @@ var friendsArray = [
 		]
 	},
 	{
-		name: '	Vincent Van Ghoul',
-		photo: 'https://scoobydoo.fandom.com/wiki/Vincent_Van_Ghoul?file=Vincent_Van_Ghoul.png',
+		name: 'Vincent Van Ghoul',
+		photo: './public/images/VincentVanGhoul.jpg',
 		scores: [
-			'5',
+			'1',
 			'5',
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Flim Flam',
-		photo: 'https://scoobydoo.fandom.com/wiki/Flim-Flam?file=Older_Flim-Flam.jpg',
+		name: 'Scooby Dee',
+		photo: './public/images/ScoobyDee.jpg',
 		scores: [
 			'1',
 			'1',
