@@ -1,7 +1,6 @@
 # friendFinder
 friendFinder - Node and Express Servers
 
-This repository contains my homework for unit 13 of coding boot camp. 
 
 Heroku App Link:  
 https://friendfinder-2345.herokuapp.com/
