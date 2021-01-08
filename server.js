@@ -3,7 +3,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
 
-// Express appl config
+// Express config
 var app = express();
 var PORT = process.env.PORT || 8080;
 
@@ -14,7 +14,7 @@ app.use(express.json());
 
 
 
-// connect operating system to app running it 
+// connect operating system t
 // json url and text- app.use registers middleware
 
 // Add the application routes

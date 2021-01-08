@@ -2,3 +2,7 @@
     height: 35px;
     width: 25px;
 }
+.jumbotron {
+background: url("https://github.com/DevonMartens/friendFinder/blob/master/public/images/mysterymachine1-1587130271.jpg?raw=true") no-repeat center center; 
+
+}

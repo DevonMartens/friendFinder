@@ -12,7 +12,7 @@ module.exports = function(app) {
 		res.json(friends);
 	})
 
-	// Add new friend entry
+	// get request to get friend with entry
 	app.post('/api/friends', function(req, res) {
     
 		var userInput = req.body;
