@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Shaggy Rogers',
-		photo: '../public/images/ShaggyRoggers.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/ShaggyRoggers.jpg?raw=true',
 		scores: [
 			'2',
 			'5',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Fred Jones',
-		photo: '../public/images/FredJones.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/FredJones.jpg?raw=true',
 		scores: [
 			'5',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Daphne Blake',
-		photo: '../public/images/FredJones.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/DaphneBlake.jpg?raw=true',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Velma Dinkley',
-		photo: '../public/images/VelmaDinkley.jpg',
+		photo: "https://github.com/DevonMartens/friendFinder/blob/master/public/images/VelmaDinkley.jpg?raw=true",
 		scores: [
 			'5',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scrappy-Doo',
-		photo: '../public/images/ScrappyDoo.jpg ',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/ScrappyDoo.jpg?raw=true',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby-Dum',
-		photo: '../public/images/ScoobyDum.png',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/ScoobyDum.jpg?raw=true',
 		scores: [
 			'5',
 			'4',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Yabba-Doo',
-		photo: '../public/images/YabbaDoo.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/YabbaDoo.jpg?raw=true',
 		scores: [
 			'3',
 			'2',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Vincent Van Ghoul',
-		photo: '../public/images/VincentVanGhoul.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/VincentVanGhoul.jpg?raw=true',
 		scores: [
 			'1',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby Dee',
-		photo: '../public/images/ScoobyDee.jpg',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/ScoobyDee.jpg?raw=true',
 		scores: [
 			'1',
 			'1',
