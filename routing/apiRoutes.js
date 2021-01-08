@@ -50,6 +50,6 @@ module.exports = function(app) {
 		friends.push(userInput);
 
 		// Send appropriate response
-		res.json({status: 'OK', friendName:friendName, friendImage: 	friendImage});
+		res.json({status: 'OK', friendName:friendName, friendImage:friendImage});
 	});
 };

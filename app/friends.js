@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Scooby-Doo',
-		photo: '../public/images/ScoobyDoo.png',
+		photo: 'https://github.com/DevonMartens/friendFinder/blob/master/public/images/ScoobyDoo.png?raw=true',
 		scores: [
 			'1',
 			'1',
